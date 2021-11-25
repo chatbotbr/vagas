@@ -1,5 +1,4 @@
 <h1 align="center">Vagas de ChatBot Developers de todo o Brasil</h1>
-<h1 align="center">Vagas</h1>
 <p align="center">🚀 Espaço para divulgação de vagas para ChatBot Developers.</p>
 
 # Vagas (Somente vagas para desenvolvedores de ChatBots)
