@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/95028518?s=400&u=822857d0f0e0720c853819d743c337953c959de0&v=4" width="400" alt="ChatBot Brasil">
 </p>
 <h1 align="center">Vagas</h1>
-<p align="center">:bot: Espaço para divulgação de vagas para ChatBot Developers.</p>
+<p align="center">:robot: Espaço para divulgação de vagas para ChatBot Developers.</p>
 
 # Vagas (Somente vagas para desenvolvedores de ChatBots)
 
