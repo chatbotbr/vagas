@@ -78,7 +78,7 @@ CLT ou PJ a combinar
 
 ## Como se candidatar
 
-Por favor envie um email para email@emaildaempresa.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Por favor envie um email para email@emaildaempresa.com.br com seu CV anexado - enviar no assunto: Vaga ChatBot Developer
 
 ## Tempo médio de feedbacks
 
