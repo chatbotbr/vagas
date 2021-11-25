@@ -58,14 +58,6 @@ confira abaixo as outras listas de vagas para outras áreas:
 - [Vagas para desenvolvedores Rust](https://github.com/rustdevbr/vagas)
 - [Vagas para desenvolvedores Elm](https://github.com/FidelisClayton/elm-jobs)
 
-#### Por localidade
-
-- [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
-- [Vagas para desenvolvedores ChatBot (Angola)](https://github.com/frontend-ao/vagas)
-- [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
-- [Vagas para desenvolvedores ChatBot (Portugal)](https://github.com/frontend-pt/vagas)
-- [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)
-
 ## Licença
 
 [MIT](/LICENSE) &copy; ChatBotBR
