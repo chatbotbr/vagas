@@ -2,10 +2,11 @@
 name: Adicionar nova vaga
 about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
 title: "[Cidade] ChatBot Developer na Nome da Empresa"
+
 ---
 
-# <!--
-
+<!--
+==================================================
 POR FAVOR, SÓ POSTE SE A VAGA FOR PARA CHAT BOT DEVELOPER!
 
 !!! Temos 4 regras básicas: https://git.io/JMIBo !!!
@@ -16,15 +17,14 @@ Use: "ChatBot Developer" ao invés de
 "Desenvolvedor de Chat Bot" \o/
 
 # Exemplo: `[São Paulo] ChatBot Developer na NOME DA EMPRESA`
-
+==================================================
 -->
 
-# <!--
-
-# Caso a vaga for remoto durante a pandemia deixar a linha abaixo
-
+<!--
+==================================================
+Caso a vaga for remoto durante a pandemia deixar a linha abaixo
+==================================================
 -->
-
 > Vaga Remota durante a pandemia
 
 ## Nossa empresa
