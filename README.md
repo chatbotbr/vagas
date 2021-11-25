@@ -1,9 +1,5 @@
 <h1 align="center">Vagas de ChatBot Developers de todo o Brasil</h1>
-<p align="center">🚀 Espaço para divulgação de vagas para ChatBot Developers.</p>
-
-# Vagas (Somente vagas para desenvolvedores de ChatBots)
-
-Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
+<p align="center">🚀 Espaço para divulgação de vagas para ChatBot Developers via _issues_ do Github.</p>
 
 Vagas disponíveis em https://github.com/chatbotbr/vagas/issues
 
