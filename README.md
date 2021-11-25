@@ -39,6 +39,7 @@ confira abaixo as outras listas de vagas para outras áreas:
 
 #### Por área
 
+- [Vagas para ChatBot Developer](https://github.com/chatbotbr/vagas)
 - [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas)
 - [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas)
 - [Vagas para UI/UX](https://github.com/remotejobsbr/design-ux-vagas)
