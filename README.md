@@ -22,7 +22,7 @@ Com o objetivo de manter a qualidade das vagas postadas e respeitar todas as pes
 
 ❗️ **Caso algum desses itens seja infringido, a moderação poderá alertar na issue ou até mesmo a vaga poderá ser DELETADA sem aviso prévio.**
 
-_OBS.: Sabemos que é dificil controlar todas essas regras, portanto pedimos que nos ajudem e que tenham bom senso
+_OBS.: Sabemos que é dificil controlar todas essas regras, portanto pedimos que nos ajudem e que tenham bom senso_
 
 ### Cuide da sua vaga ;)
 
