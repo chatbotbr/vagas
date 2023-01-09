@@ -38,8 +38,8 @@ Você pode receber atualizações das vagas no seu email ou via notificações d
 
 ### :octocat: Outros repositórios de vagas
 
-Esse repositório não é específico para um único tipo devagas de **TI**,
-mas mesmo assim existem vagas para muitas outras áreas nesse mercado sendo compartilhadas por outras comunidades, algumas pessoas
+Esse repositório é específico para vagas de **ChatBot**.
+Existem vagas para muitas outras áreas nesse mercado sendo compartilhadas por outras comunidades, algumas pessoas
 da comunidade forkaram o repositório do FrontEndBR e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga também:
