@@ -20,13 +20,6 @@ Use: "ChatBot Developer" ao invés de
 ==================================================
 -->
 
-<!--
-==================================================
-Caso a vaga for remoto durante a pandemia deixar a linha abaixo
-==================================================
--->
-> Vaga Remota durante a pandemia
-
 ## Nossa empresa
 
 Exemplo: Aqui na Corporação ACME somos líderes em...
@@ -93,6 +86,7 @@ E-mail para contato em caso de não haver resposta: feedbacks@emaildaempresa.com
 
 - Alocado
 - Remoto
+- Híbrido
 
 #### Regime
 
