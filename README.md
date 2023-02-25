@@ -80,5 +80,3 @@ listas onde você poderá postar sua vaga também:
 ## :copyright: Licença
 
 [MIT](/LICENSE) &copy; ChatBotBR
-
-Projeto inspirado no repositório - [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas)
